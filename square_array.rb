@@ -4,4 +4,5 @@ def square_array(array)
     numbers=numbers ** 2
     new << numbers
 end
+new
 end
